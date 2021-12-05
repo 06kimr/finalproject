@@ -42,8 +42,7 @@ nbformat==5.1.3
 nest-asyncio==1.5.1
 notebook==6.4.6
 numpy==1.21.3
-opencv-contrib-python==4.5.4.58
-opencv-python-headles
+opencv-python-headles==3.4.1
 packaging==21.3
 pandas==1.3.4
 pandocfilters==1.5.0
